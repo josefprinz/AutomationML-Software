@@ -7,4 +7,4 @@ github_username: josefprinz
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
