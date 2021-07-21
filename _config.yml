@@ -3,7 +3,7 @@ title: AutomationML Software
 author: Josef Prinz
 email: josef@berlin-prinz.de
 description: A collection of useful software around the AutomationML Engine and the AutomationML Editor
-github_username:  josefprinz
+github_username: josefprinz
 
 # Build settings
 markdown: kramdown
