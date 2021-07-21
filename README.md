@@ -10,7 +10,7 @@ Explore the AutomationML Github repository supporting your [plugin development](
 
 ### Advanced AutomationML Implementations
 
-Learn how to implement [AutomationML Import and Export Interfaces] (https://github.com/AutomationML/AMLImportExport).
+Learn how to implement [AutomationML Import and Export Interfaces](https://github.com/AutomationML/AMLImportExport).
 
 ### Support or Contact
 
